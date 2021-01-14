@@ -1,3 +1,5 @@
 # AutoClicker
 
-A java swing program that automates right-clicks. (Java Swing ile otomatik sol tıklama programı)
+The current version clicks 4-5 times per second.
+The Clicker has 5 seconds delay to start.
+You can press 'ESC' button to exit the program (when in focused window).
